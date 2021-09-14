@@ -1,7 +1,7 @@
 # Repositório do curso de Estrutura de Dados em Java
 O curso pode ser acessado na plataforma da [Digital Innovation One](http://digitalinnovation.one).
 
-## Sobre o Autor
+## Ministrado por
 
 <a href="https://web.digitalinnovation.one/users/jrdutra">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/22947717?v=4" width="100px;" alt=""/>
